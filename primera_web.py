@@ -1,4 +1,4 @@
-import sreamlit as st
+import streamlit as st
 
 st.title("mi primera aplicacion en streamlit")
 st.header("esto es un encabezado")
